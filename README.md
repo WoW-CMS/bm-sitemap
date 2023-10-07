@@ -1,7 +1,8 @@
 # BlizzCMS Sitemap Module
 
 [![GitHub stars](https://img.shields.io/github/stars/WoW-CMS/Blizzcms.svg)](https://github.com/WoW-CMS/Blizzcms/stargazers)
-[![GitHub license](https://img.shields.io/github/license/WoW-CMS/bm-sitemap.svg)](https://github.com/WoW-CMS/bm-sitemap/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/WoW-CMS/bm-sitemap.svg
+)](https://github.com/WoW-CMS/bm-sitemap/blob/main/LICENSE)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/WoW-CMS/bm-sitemap?include_prereleases)
 
 Welcome to the BlizzCMS Sitemap Module! 🚀 
